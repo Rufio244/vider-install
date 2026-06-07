@@ -1,0 +1,4 @@
+git remote set-url origin https://github.com/Rufio244/Meta_Pame.git
+git add .
+git commit -m "เพิ่มระบบอัปโหลด zip + ลบส่วนขยาย"
+git push -u origin main
